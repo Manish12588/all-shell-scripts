@@ -13,3 +13,5 @@ Thumbs.db
 
 #ignore key file
 *.pem
+
+.idea/
