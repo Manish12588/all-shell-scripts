@@ -13,4 +13,4 @@ Inside the repository we will be having the shell file of linux command which we
 
 - [Service Scripts](./SERVICE/README.md) — Create, register, start, stop and cleanup services
 - [EC2](./EC2/README.md) — 
-- [Linux Basic and Advance](./LINUX-BASIC-ADVANCE/README.md) —
+- [Linux Basic and Advance]() —
